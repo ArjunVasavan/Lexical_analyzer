@@ -1,0 +1,5 @@
+documentation.txt
+*.o
+*.out
+a.out
+*.exe
