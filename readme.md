@@ -16,11 +16,7 @@ This lexical analyzer parses C source files and identifies keywords, identifiers
 ## Installation
 Clone the repository:
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/ArjunVasavan/Lexical-analyzer.git
-=======
-https://github.com/ArjunVasavan/Lexical_analyzer
->>>>>>> 07c7c78b998877d7e4cf2e163b57fc3616d9338e
 cd Lexical-analyzer
 ```
 
