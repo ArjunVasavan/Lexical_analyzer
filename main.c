@@ -5,6 +5,7 @@
 
 int keywordcheck( char word [] ) // this function checks all the 32 keywords
 {
+
   if ( strcmp(word,"int") == 0) return 1;
   if ( strcmp(word,"float") == 0) return 1;
   if ( strcmp(word,"char") == 0) return 1;
